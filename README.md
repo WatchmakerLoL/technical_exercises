@@ -92,6 +92,9 @@ Example Exercise 3:
     { "date": "1/10/20", "was_rainy": true }
 ]
 ```
+
+POSTMAN COLLECTION: https://www.getpostman.com/collections/346c15f502416d0fc7f6
+
 ---
 
 ## Technical Stack.
